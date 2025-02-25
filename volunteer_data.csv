@@ -1,0 +1,290 @@
+filepath,filename,participant_id,participant_sex,participant_age,participant_condition,acquisition_date,platform,clinical_protocol,responsible,facial_movement_id,attempt_num,repetitive_movement,info_state,len_spc,num_complete_pc
+AQ2MF/Sain/BC/20240426_BC_M1.csv,20240426_BC_M1.csv,,,,volunteer,,,,,M1,,False,processing,250,0
+AQ2MF/Sain/BC/20240426_BC_M2.csv,20240426_BC_M2.csv,,,,volunteer,,,,,M2,,False,processing,249,0
+AQ2MF/Sain/BC/20240426_BC_M3.csv,20240426_BC_M3.csv,,,,volunteer,,,,,M3,,False,processing,188,0
+AQ2MF/Sain/BC/20240426_BC_M4.csv,20240426_BC_M4.csv,,,,volunteer,,,,,M4,,False,processing,173,0
+AQ2MF/Sain/BC/20240426_BC_M5.csv,20240426_BC_M5.csv,,,,volunteer,,,,,M5,,False,processing,191,0
+AQ2MF/Sain/BC/20240426_BC_M6.csv,20240426_BC_M6.csv,,,,volunteer,,,,,M6,,False,processing,255,0
+AQ2MF/Sain/BC/20240426_BC_M7.csv,20240426_BC_M7.csv,,,,volunteer,,,,,M7,,False,processing,317,0
+AQ2MF/Sain/BC/20240426_BC_M8.csv,20240426_BC_M8.csv,,,,volunteer,,,,,M8,,False,processing,258,0
+AQ2MF/Sain/BC/20240426_BC_M9.csv,20240426_BC_M9.csv,,,,volunteer,,,,,M9,,False,processing,200,0
+AQ2MF/Sain/BD/2023041901_BD_M1.csv,2023041901_BD_M1.csv,,,,volunteer,,,,,M1,,False,processing,151,101
+AQ2MF/Sain/BD/2023041901_BD_M2.csv,2023041901_BD_M2.csv,,,,volunteer,,,,,M2,,False,processing,222,115
+AQ2MF/Sain/BD/2023041901_BD_M3.csv,2023041901_BD_M3.csv,,,,volunteer,,,,,M3,,False,processing,196,33
+AQ2MF/Sain/BD/2023041901_BD_M4.csv,2023041901_BD_M4.csv,,,,volunteer,,,,,M4,,False,processing,101,43
+AQ2MF/Sain/BD/2023041901_BD_M5.csv,2023041901_BD_M5.csv,,,,volunteer,,,,,M5,,False,processing,270,259
+AQ2MF/Sain/BD/2023041901_BD_M6.csv,2023041901_BD_M6.csv,,,,volunteer,,,,,M6,,False,processing,200,78
+AQ2MF/Sain/BD/2023041901_BD_M7.csv,2023041901_BD_M7.csv,,,,volunteer,,,,,M7,,False,processing,181,156
+AQ2MF/Sain/BD/2023041901_BD_M8.csv,2023041901_BD_M8.csv,,,,volunteer,,,,,M8,,False,processing,201,201
+AQ2MF/Sain/BD/2023041901_BD_M9.csv,2023041901_BD_M9.csv,,,,volunteer,,,,,M9,,False,processing,215,99
+AQ2MF/Sain/FL/20240320_FL_M1.csv,20240320_FL_M1.csv,,,,volunteer,,,,,M1,,False,processing,114,0
+AQ2MF/Sain/FL/20240320_FL_M2.csv,20240320_FL_M2.csv,,,,volunteer,,,,,M2,,False,processing,127,0
+AQ2MF/Sain/FL/20240320_FL_M3.csv,20240320_FL_M3.csv,,,,volunteer,,,,,M3,,False,processing,140,0
+AQ2MF/Sain/FL/20240320_FL_M4.csv,20240320_FL_M4.csv,,,,volunteer,,,,,M4,,False,processing,169,0
+AQ2MF/Sain/FL/20240320_FL_M5.csv,20240320_FL_M5.csv,,,,volunteer,,,,,M5,,False,processing,172,0
+AQ2MF/Sain/FL/20240320_FL_M6.csv,20240320_FL_M6.csv,,,,volunteer,,,,,M6,,False,processing,167,0
+AQ2MF/Sain/FL/20240320_FL_M7.csv,20240320_FL_M7.csv,,,,volunteer,,,,,M7,,False,processing,134,0
+AQ2MF/Sain/FL/20240320_FL_M8.csv,20240320_FL_M8.csv,,,,volunteer,,,,,M8,,False,processing,146,0
+AQ2MF/Sain/FL/20240320_FL_M9.csv,20240320_FL_M9.csv,,,,volunteer,,,,,M9,,False,processing,208,0
+AQ2MF/Sain/JE/20240320_JE_M1.csv,20240320_JE_M1.csv,,,,volunteer,,,,,M1,,False,processing,123,0
+AQ2MF/Sain/JE/20240320_JE_M2.csv,20240320_JE_M2.csv,,,,volunteer,,,,,M2,,False,processing,169,0
+AQ2MF/Sain/JE/20240320_JE_M3.csv,20240320_JE_M3.csv,,,,volunteer,,,,,M3,,False,processing,175,0
+AQ2MF/Sain/JE/20240320_JE_M4.csv,20240320_JE_M4.csv,,,,volunteer,,,,,M4,,False,processing,170,0
+AQ2MF/Sain/JE/20240320_JE_M5.csv,20240320_JE_M5.csv,,,,volunteer,,,,,M5,,False,processing,233,0
+AQ2MF/Sain/JE/20240320_JE_M6.csv,20240320_JE_M6.csv,,,,volunteer,,,,,M6,,False,processing,215,0
+AQ2MF/Sain/JE/20240320_JE_M7.csv,20240320_JE_M7.csv,,,,volunteer,,,,,M7,,False,processing,170,0
+AQ2MF/Sain/JE/20240320_JE_M8.csv,20240320_JE_M8.csv,,,,volunteer,,,,,M8,,False,processing,158,0
+AQ2MF/Sain/JE/20240320_JE_M9.csv,20240320_JE_M9.csv,,,,volunteer,,,,,M9,,False,processing,188,0
+AQ2MF/Sain/JS/20230412_JS_M1_01.csv,20230412_JS_M1_01.csv,,,,volunteer,,,,,M1,,False,processing,121,0
+AQ2MF/Sain/JS/20230412_JS_M2_01.csv,20230412_JS_M2_01.csv,,,,volunteer,,,,,M2,,False,processing,91,0
+AQ2MF/Sain/JS/20230412_JS_M3_01.csv,20230412_JS_M3_01.csv,,,,volunteer,,,,,M3,,False,processing,165,0
+AQ2MF/Sain/JS/20230412_JS_M4_01.csv,20230412_JS_M4_01.csv,,,,volunteer,,,,,M4,,False,processing,131,0
+AQ2MF/Sain/JS/20230412_JS_M5_01.csv,20230412_JS_M5_01.csv,,,,volunteer,,,,,M5,,False,processing,186,0
+AQ2MF/Sain/JS/20230412_JS_M6.csv,20230412_JS_M6.csv,,,,volunteer,,,,,M6,,False,processing,141,0
+AQ2MF/Sain/JS/20230412_JS_M7.csv,20230412_JS_M7.csv,,,,volunteer,,,,,M7,,False,processing,152,0
+AQ2MF/Sain/JS/20230412_JS_M8.csv,20230412_JS_M8.csv,,,,volunteer,,,,,M8,,False,processing,101,0
+AQ2MF/Sain/JS/20230412_JS_M9.csv,20230412_JS_M9.csv,,,,volunteer,,,,,M9,,False,processing,131,0
+AQ2MF/Sain/LM/20240329_LM_M1.csv,20240329_LM_M1.csv,,,,volunteer,,,,,M1,,False,processing,343,0
+AQ2MF/Sain/LM/20240329_LM_M2.csv,20240329_LM_M2.csv,,,,volunteer,,,,,M2,,False,processing,357,0
+AQ2MF/Sain/LM/20240329_LM_M3.csv,20240329_LM_M3.csv,,,,volunteer,,,,,M3,,False,processing,410,0
+AQ2MF/Sain/LM/20240329_LM_M4.csv,20240329_LM_M4.csv,,,,volunteer,,,,,M4,,False,processing,233,0
+AQ2MF/Sain/LM/20240329_LM_M5.csv,20240329_LM_M5.csv,,,,volunteer,,,,,M5,,False,processing,456,0
+AQ2MF/Sain/LM/20240329_LM_M6.csv,20240329_LM_M6.csv,,,,volunteer,,,,,M6,,False,processing,421,0
+AQ2MF/Sain/LM/20240329_LM_M7.csv,20240329_LM_M7.csv,,,,volunteer,,,,,M7,,False,processing,288,0
+AQ2MF/Sain/LM/20240329_LM_M8.csv,20240329_LM_M8.csv,,,,volunteer,,,,,M8,,False,processing,196,0
+AQ2MF/Sain/LM/20240329_LM_M9.csv,20240329_LM_M9.csv,,,,volunteer,,,,,M9,,False,processing,271,0
+AQ2MF/Sain/SMJ/2023061901_SMJ_M1.csv,2023061901_SMJ_M1.csv,,,,volunteer,,,,,M1,,False,processing,88,0
+AQ2MF/Sain/SMJ/2023061901_SMJ_M2.csv,2023061901_SMJ_M2.csv,,,,volunteer,,,,,M2,,False,processing,111,0
+AQ2MF/Sain/SMJ/2023061901_SMJ_M3.csv,2023061901_SMJ_M3.csv,,,,volunteer,,,,,M3,,False,processing,204,0
+AQ2MF/Sain/SMJ/2023061901_SMJ_M4.csv,2023061901_SMJ_M4.csv,,,,volunteer,,,,,M4,,False,processing,98,0
+AQ2MF/Sain/SMJ/2023061901_SMJ_M5.csv,2023061901_SMJ_M5.csv,,,,volunteer,,,,,M5,,False,processing,184,0
+AQ2MF/Sain/SMJ/2023061901_SMJ_M6.csv,2023061901_SMJ_M6.csv,,,,volunteer,,,,,M6,,False,processing,172,0
+AQ2MF/Sain/SMJ/2023061901_SMJ_M7.csv,2023061901_SMJ_M7.csv,,,,volunteer,,,,,M7,,False,processing,207,0
+AQ2MF/Sain/SMJ/2023061901_SMJ_M8.csv,2023061901_SMJ_M8.csv,,,,volunteer,,,,,M8,,False,processing,163,0
+AQ2MF/Sain/SMJ/2023061901_SMJ_M9.csv,2023061901_SMJ_M9.csv,,,,volunteer,,,,,M9,,False,processing,157,0
+SIMOVI 1/Sain/AA01/AA01_M1.csv,AA01_M1.csv,,,,volunteer,,,,,M1,,False,processing,543,543
+SIMOVI 1/Sain/AA01/AA01_M2.csv,AA01_M2.csv,,,,volunteer,,,,,M2,,False,processing,705,705
+SIMOVI 1/Sain/AA01/AA01_M3.csv,AA01_M3.csv,,,,volunteer,,,,,M3,,False,processing,556,401
+SIMOVI 1/Sain/AA01/AA01_M4.csv,AA01_M4.csv,,,,volunteer,,,,,M4,,False,processing,250,0
+SIMOVI 1/Sain/AA01/AA01_M5.csv,AA01_M5.csv,,,,volunteer,,,,,M5,,False,processing,409,409
+SIMOVI 1/Sain/ABD/ABD_M1.csv,ABD_M1.csv,,,,volunteer,,,,,M1,,False,processing,169,0
+SIMOVI 1/Sain/ABD/ABD_M2.csv,ABD_M2.csv,,,,volunteer,,,,,M2,,False,processing,230,0
+SIMOVI 1/Sain/ABD/ABD_M3.csv,ABD_M3.csv,,,,volunteer,,,,,M3,,False,processing,132,0
+SIMOVI 1/Sain/ABD/ABD_M4.csv,ABD_M4.csv,,,,volunteer,,,,,M4,,False,processing,102,0
+SIMOVI 1/Sain/ABD/ABD_M5.csv,ABD_M5.csv,,,,volunteer,,,,,M5,,False,processing,332,0
+SIMOVI 1/Sain/AC/AC_M1.csv,AC_M1.csv,,,,volunteer,,,,,M1,,False,processing,422,0
+SIMOVI 1/Sain/AC/AC_M2.csv,AC_M2.csv,,,,volunteer,,,,,M2,,False,processing,549,0
+SIMOVI 1/Sain/AC/AC_M3.csv,AC_M3.csv,,,,volunteer,,,,,M3,,False,processing,288,0
+SIMOVI 1/Sain/AC/AC_M4.csv,AC_M4.csv,,,,volunteer,,,,,M4,,False,processing,410,0
+SIMOVI 1/Sain/AC/AC_M5.csv,AC_M5.csv,,,,volunteer,,,,,M5,,False,processing,459,0
+SIMOVI 1/Sain/AD01/AD01_M1.csv,AD01_M1.csv,,,,volunteer,,,,,M1,,False,processing,265,0
+SIMOVI 1/Sain/AD01/AD01_M2.csv,AD01_M2.csv,,,,volunteer,,,,,M2,,False,processing,453,0
+SIMOVI 1/Sain/AD01/AD01_M3.csv,AD01_M3.csv,,,,volunteer,,,,,M3,,False,processing,418,0
+SIMOVI 1/Sain/AD01/AD01_M4.csv,AD01_M4.csv,,,,volunteer,,,,,M4,,False,processing,407,0
+SIMOVI 1/Sain/AD01/AD01_M5.csv,AD01_M5.csv,,,,volunteer,,,,,M5,,False,processing,466,466
+SIMOVI 1/Sain/AF/M1_01.csv,M1_01.csv,,,,volunteer,,,,,M1,,False,processing,183,0
+SIMOVI 1/Sain/AF/M1_02.csv,M1_02.csv,,,,volunteer,,,,,M1,,False,processing,289,0
+SIMOVI 1/Sain/AF/M1_03.csv,M1_03.csv,,,,volunteer,,,,,M1,,False,processing,303,0
+SIMOVI 1/Sain/AF/M1_04.csv,M1_04.csv,,,,volunteer,,,,,M1,,False,processing,268,0
+SIMOVI 1/Sain/AF/M1_05.csv,M1_05.csv,,,,volunteer,,,,,M1,,False,processing,202,0
+SIMOVI 1/Sain/AF/M2_01.csv,M2_01.csv,,,,volunteer,,,,,M2,,False,processing,250,0
+SIMOVI 1/Sain/AF/M2_02.csv,M2_02.csv,,,,volunteer,,,,,M2,,False,processing,421,0
+SIMOVI 1/Sain/AF/M2_03.csv,M2_03.csv,,,,volunteer,,,,,M2,,False,processing,291,0
+SIMOVI 1/Sain/AF/M2_04.csv,M2_04.csv,,,,volunteer,,,,,M2,,False,processing,306,0
+SIMOVI 1/Sain/AF/M2_05.csv,M2_05.csv,,,,volunteer,,,,,M2,,False,processing,343,0
+SIMOVI 1/Sain/AF/M3_01.csv,M3_01.csv,,,,volunteer,,,,,M3,,False,processing,214,0
+SIMOVI 1/Sain/AF/M3_02.csv,M3_02.csv,,,,volunteer,,,,,M3,,False,processing,216,0
+SIMOVI 1/Sain/AF/M3_03.csv,M3_03.csv,,,,volunteer,,,,,M3,,False,processing,281,0
+SIMOVI 1/Sain/AF/M3_04.csv,M3_04.csv,,,,volunteer,,,,,M3,,False,processing,231,0
+SIMOVI 1/Sain/AF/M3_05.csv,M3_05.csv,,,,volunteer,,,,,M3,,False,processing,194,0
+SIMOVI 1/Sain/AF/M4_01.csv,M4_01.csv,,,,volunteer,,,,,M4,,False,processing,210,0
+SIMOVI 1/Sain/AF/M4_02.csv,M4_02.csv,,,,volunteer,,,,,M4,,False,processing,302,0
+SIMOVI 1/Sain/AF/M4_03.csv,M4_03.csv,,,,volunteer,,,,,M4,,False,processing,302,0
+SIMOVI 1/Sain/AF/M4_04.csv,M4_04.csv,,,,volunteer,,,,,M4,,False,processing,260,0
+SIMOVI 1/Sain/AF/M4_05.csv,M4_05.csv,,,,volunteer,,,,,M4,,False,processing,275,0
+SIMOVI 1/Sain/AF/M5_01.csv,M5_01.csv,,,,volunteer,,,,,M5,,False,processing,304,0
+SIMOVI 1/Sain/AF/M5_02.csv,M5_02.csv,,,,volunteer,,,,,M5,,False,processing,300,0
+SIMOVI 1/Sain/AF/M5_03.csv,M5_03.csv,,,,volunteer,,,,,M5,,False,processing,331,0
+SIMOVI 1/Sain/AF/M5_04.csv,M5_04.csv,,,,volunteer,,,,,M5,,False,processing,330,0
+SIMOVI 1/Sain/AF/M5_05.csv,M5_05.csv,,,,volunteer,,,,,M5,,False,processing,364,0
+SIMOVI 1/Sain/AF/AF/M1.csv,M1.csv,,,,volunteer,,,,,M1,,False,processing,303,0
+SIMOVI 1/Sain/AF/AF/M2.csv,M2.csv,,,,volunteer,,,,,M2,,False,processing,291,0
+SIMOVI 1/Sain/AF/AF/M3.csv,M3.csv,,,,volunteer,,,,,M3,,False,processing,281,0
+SIMOVI 1/Sain/AF/AF/M4.csv,M4.csv,,,,volunteer,,,,,M4,,False,processing,302,0
+SIMOVI 1/Sain/AF/AF/M5.csv,M5.csv,,,,volunteer,,,,,M5,,False,processing,331,0
+SIMOVI 1/Sain/AF/AF_total/M1_01.csv,M1_01.csv,,,,volunteer,,,,,M1,,False,processing,104,0
+SIMOVI 1/Sain/AF/AF_total/M1_02.csv,M1_02.csv,,,,volunteer,,,,,M1,,False,processing,155,0
+SIMOVI 1/Sain/AF/AF_total/M1_03.csv,M1_03.csv,,,,volunteer,,,,,M1,,False,processing,138,0
+SIMOVI 1/Sain/AF/AF_total/M1_04.csv,M1_04.csv,,,,volunteer,,,,,M1,,False,processing,268,0
+SIMOVI 1/Sain/AF/AF_total/M1_05.csv,M1_05.csv,,,,volunteer,,,,,M1,,False,processing,74,0
+SIMOVI 1/Sain/AF/AF_total/M2_01.csv,M2_01.csv,,,,volunteer,,,,,M2,,False,processing,153,0
+SIMOVI 1/Sain/AF/AF_total/M2_02.csv,M2_02.csv,,,,volunteer,,,,,M2,,False,processing,180,0
+SIMOVI 1/Sain/AF/AF_total/M2_03.csv,M2_03.csv,,,,volunteer,,,,,M2,,False,processing,143,0
+SIMOVI 1/Sain/AF/AF_total/M2_04.csv,M2_04.csv,,,,volunteer,,,,,M2,,False,processing,143,0
+SIMOVI 1/Sain/AF/AF_total/M2_05.csv,M2_05.csv,,,,volunteer,,,,,M2,,False,processing,177,0
+SIMOVI 1/Sain/AF/AF_total/M3_01.csv,M3_01.csv,,,,volunteer,,,,,M3,,False,processing,123,0
+SIMOVI 1/Sain/AF/AF_total/M3_02.csv,M3_02.csv,,,,volunteer,,,,,M3,,False,processing,107,0
+SIMOVI 1/Sain/AF/AF_total/M3_03.csv,M3_03.csv,,,,volunteer,,,,,M3,,False,processing,103,0
+SIMOVI 1/Sain/AF/AF_total/M3_04.csv,M3_04.csv,,,,volunteer,,,,,M3,,False,processing,92,0
+SIMOVI 1/Sain/AF/AF_total/M3_05.csv,M3_05.csv,,,,volunteer,,,,,M3,,False,processing,107,0
+SIMOVI 1/Sain/AF/AF_total/M4_01.csv,M4_01.csv,,,,volunteer,,,,,M4,,False,processing,100,0
+SIMOVI 1/Sain/AF/AF_total/M4_02.csv,M4_02.csv,,,,volunteer,,,,,M4,,False,processing,138,0
+SIMOVI 1/Sain/AF/AF_total/M4_03.csv,M4_03.csv,,,,volunteer,,,,,M4,,False,processing,49,0
+SIMOVI 1/Sain/AF/AF_total/M4_04.csv,M4_04.csv,,,,volunteer,,,,,M4,,False,processing,187,0
+SIMOVI 1/Sain/AF/AF_total/M4_05.csv,M4_05.csv,,,,volunteer,,,,,M4,,False,processing,177,0
+SIMOVI 1/Sain/AF/AF_total/M5_01.csv,M5_01.csv,,,,volunteer,,,,,M5,,False,processing,227,0
+SIMOVI 1/Sain/AF/AF_total/M5_02.csv,M5_02.csv,,,,volunteer,,,,,M5,,False,processing,192,0
+SIMOVI 1/Sain/AF/AF_total/M5_03.csv,M5_03.csv,,,,volunteer,,,,,M5,,False,processing,167,0
+SIMOVI 1/Sain/AF/AF_total/M5_04.csv,M5_04.csv,,,,volunteer,,,,,M5,,False,processing,209,0
+SIMOVI 1/Sain/AF/AF_total/M5_05.csv,M5_05.csv,,,,volunteer,,,,,M5,,False,processing,211,0
+SIMOVI 1/Sain/AG01/AG01_M1.csv,AG01_M1.csv,,,,volunteer,,,,,M1,,False,processing,248,0
+SIMOVI 1/Sain/AG01/AG01_M2.csv,AG01_M2.csv,,,,volunteer,,,,,M2,,False,processing,344,0
+SIMOVI 1/Sain/AG01/AG01_M3.csv,AG01_M3.csv,,,,volunteer,,,,,M3,,False,processing,266,0
+SIMOVI 1/Sain/AG01/AG01_M4.csv,AG01_M4.csv,,,,volunteer,,,,,M4,,False,processing,283,0
+SIMOVI 1/Sain/AG01/AG01_M5.csv,AG01_M5.csv,,,,volunteer,,,,,M5,,False,processing,467,0
+SIMOVI 1/Sain/AT01/AT01_M1.csv,AT01_M1.csv,,,,volunteer,,,,,M1,,False,processing,304,0
+SIMOVI 1/Sain/AT01/AT01_M2.csv,AT01_M2.csv,,,,volunteer,,,,,M2,,False,processing,349,0
+SIMOVI 1/Sain/AT01/AT01_M3.csv,AT01_M3.csv,,,,volunteer,,,,,M3,,False,processing,149,0
+SIMOVI 1/Sain/AT01/AT01_M4.csv,AT01_M4.csv,,,,volunteer,,,,,M4,,False,processing,129,0
+SIMOVI 1/Sain/AT01/AT01_M5.csv,AT01_M5.csv,,,,volunteer,,,,,M5,,False,processing,370,0
+SIMOVI 1/Sain/AVP01/AVP01_M1.csv,AVP01_M1.csv,,,,volunteer,,,,,M1,,False,processing,488,0
+SIMOVI 1/Sain/AVP01/AVP01_M2.csv,AVP01_M2.csv,,,,volunteer,,,,,M2,,False,processing,517,0
+SIMOVI 1/Sain/AVP01/AVP01_M3.csv,AVP01_M3.csv,,,,volunteer,,,,,M3,,False,processing,227,0
+SIMOVI 1/Sain/AVP01/AVP01_M4.csv,AVP01_M4.csv,,,,volunteer,,,,,M4,,False,processing,190,0
+SIMOVI 1/Sain/AVP01/AVP01_M5.csv,AVP01_M5.csv,,,,volunteer,,,,,M5,,False,processing,415,0
+SIMOVI 1/Sain/BT01/BT01_M1.csv,BT01_M1.csv,,,,volunteer,,,,,M1,,False,processing,433,0
+SIMOVI 1/Sain/BT01/BT01_M2.csv,BT01_M2.csv,,,,volunteer,,,,,M2,,False,processing,569,0
+SIMOVI 1/Sain/BT01/BT01_M3.csv,BT01_M3.csv,,,,volunteer,,,,,M3,,False,processing,414,0
+SIMOVI 1/Sain/BT01/BT01_M4.csv,BT01_M4.csv,,,,volunteer,,,,,M4,,False,processing,413,0
+SIMOVI 1/Sain/BT01/BT01_M5.csv,BT01_M5.csv,,,,volunteer,,,,,M5,,False,processing,453,0
+SIMOVI 1/Sain/CAD01/CAD01_M1.csv,CAD01_M1.csv,,,,volunteer,,,,,M1,,False,processing,342,0
+SIMOVI 1/Sain/CAD01/CAD01_M2.csv,CAD01_M2.csv,,,,volunteer,,,,,M2,,False,processing,513,0
+SIMOVI 1/Sain/CAD01/CAD01_M3.csv,CAD01_M3.csv,,,,volunteer,,,,,M3,,False,processing,490,0
+SIMOVI 1/Sain/CAD01/CAD01_M4.csv,CAD01_M4.csv,,,,volunteer,,,,,M4,,False,processing,252,0
+SIMOVI 1/Sain/CAD01/CAD01_M5.csv,CAD01_M5.csv,,,,volunteer,,,,,M5,,False,processing,414,203
+SIMOVI 1/Sain/CD01/CD01_M1.csv,CD01_M1.csv,,,,volunteer,,,,,M1,,False,processing,459,459
+SIMOVI 1/Sain/CD01/CD01_M2.csv,CD01_M2.csv,,,,volunteer,,,,,M2,,False,processing,626,626
+SIMOVI 1/Sain/CD01/CD01_M3.csv,CD01_M3.csv,,,,volunteer,,,,,M3,,False,processing,300,284
+SIMOVI 1/Sain/CD01/CD01_M4.csv,CD01_M4.csv,,,,volunteer,,,,,M4,,False,processing,157,152
+SIMOVI 1/Sain/CD01/CD01_M5.csv,CD01_M5.csv,,,,volunteer,,,,,M5,,False,processing,382,380
+SIMOVI 1/Sain/CG02/CG02_M2.csv,CG02_M2.csv,,,,volunteer,,,,,M2,,False,processing,419,0
+SIMOVI 1/Sain/CG02/CG02_M3.csv,CG02_M3.csv,,,,volunteer,,,,,M3,,False,processing,161,0
+SIMOVI 1/Sain/CG02/CG02_M4.csv,CG02_M4.csv,,,,volunteer,,,,,M4,,False,processing,176,0
+SIMOVI 1/Sain/CG02/CG02_M5.csv,CG02_M5.csv,,,,volunteer,,,,,M5,,False,processing,272,0
+SIMOVI 1/Sain/CG03/CG031_M1.csv,CG031_M1.csv,,,,volunteer,,,,,M1,,False,processing,279,0
+SIMOVI 1/Sain/CG03/CG031_M2.csv,CG031_M2.csv,,,,volunteer,,,,,M2,,False,processing,241,0
+SIMOVI 1/Sain/CG03/CG031_M3.csv,CG031_M3.csv,,,,volunteer,,,,,M3,,False,processing,229,0
+SIMOVI 1/Sain/CG03/CG031_M4.csv,CG031_M4.csv,,,,volunteer,,,,,M4,,False,processing,171,0
+SIMOVI 1/Sain/CG03/CG031_M5.csv,CG031_M5.csv,,,,volunteer,,,,,M5,,False,processing,403,0
+SIMOVI 1/Sain/CH/20230412_CH_M1.csv,20230412_CH_M1.csv,,,,volunteer,,,,,M1,,False,processing,197,197
+SIMOVI 1/Sain/CH/20230412_CH_M2.csv,20230412_CH_M2.csv,,,,volunteer,,,,,M2,,False,processing,251,251
+SIMOVI 1/Sain/CH/20230412_CH_M3.csv,20230412_CH_M3.csv,,,,volunteer,,,,,M3,,False,processing,270,270
+SIMOVI 1/Sain/CH/20230412_CH_M4.csv,20230412_CH_M4.csv,,,,volunteer,,,,,M4,,False,processing,171,168
+SIMOVI 1/Sain/CH/20230412_CH_M5.csv,20230412_CH_M5.csv,,,,volunteer,,,,,M5,,False,processing,250,224
+SIMOVI 1/Sain/CH/20230412_CH_M6.csv,20230412_CH_M6.csv,,,,volunteer,,,,,M6,,False,processing,272,256
+SIMOVI 1/Sain/CH/20230412_CH_M7.csv,20230412_CH_M7.csv,,,,volunteer,,,,,M7,,False,processing,171,171
+SIMOVI 1/Sain/CH/20230412_CH_M8.csv,20230412_CH_M8.csv,,,,volunteer,,,,,M8,,False,processing,131,131
+SIMOVI 1/Sain/CH/20230412_CH_M9.csv,20230412_CH_M9.csv,,,,volunteer,,,,,M9,,False,processing,191,191
+SIMOVI 1/Sain/CJ/20230420_CJ_M1.csv,20230420_CJ_M1.csv,,,,volunteer,,,,,M1,,False,processing,131,0
+SIMOVI 1/Sain/CJ/20230420_CJ_M2.csv,20230420_CJ_M2.csv,,,,volunteer,,,,,M2,,False,processing,101,0
+SIMOVI 1/Sain/CJ/20230420_CJ_M3.csv,20230420_CJ_M3.csv,,,,volunteer,,,,,M3,,False,processing,91,0
+SIMOVI 1/Sain/CJ/20230420_CJ_M4.csv,20230420_CJ_M4.csv,,,,volunteer,,,,,M4,,False,processing,78,0
+SIMOVI 1/Sain/CJ/20230420_CJ_M5.csv,20230420_CJ_M5.csv,,,,volunteer,,,,,M5,,False,processing,188,0
+SIMOVI 1/Sain/CJ/20230420_CJ_M6.csv,20230420_CJ_M6.csv,,,,volunteer,,,,,M6,,False,processing,196,0
+SIMOVI 1/Sain/CJ/20230420_CJ_M7.csv,20230420_CJ_M7.csv,,,,volunteer,,,,,M7,,False,processing,92,0
+SIMOVI 1/Sain/CJ/20230420_CJ_M8.csv,20230420_CJ_M8.csv,,,,volunteer,,,,,M8,,False,processing,96,0
+SIMOVI 1/Sain/CJ/20230420_CJ_M9.csv,20230420_CJ_M9.csv,,,,volunteer,,,,,M9,,False,processing,151,0
+SIMOVI 1/Sain/CN01/CN01_M2.csv,CN01_M2.csv,,,,volunteer,,,,,M2,,False,processing,240,0
+SIMOVI 1/Sain/CN01/CN01_M3.csv,CN01_M3.csv,,,,volunteer,,,,,M3,,False,processing,483,0
+SIMOVI 1/Sain/CN01/CN01_M4.csv,CN01_M4.csv,,,,volunteer,,,,,M4,,False,processing,547,0
+SIMOVI 1/Sain/CN01/CN01_M5.csv,CN01_M5.csv,,,,volunteer,,,,,M5,,False,processing,475,0
+SIMOVI 1/Sain/CN03/CN03_M1.csv,CN03_M1.csv,,,,volunteer,,,,,M1,,False,processing,260,0
+SIMOVI 1/Sain/CN03/CN03_M2.csv,CN03_M2.csv,,,,volunteer,,,,,M2,,False,processing,298,0
+SIMOVI 1/Sain/CN03/CN03_M3.csv,CN03_M3.csv,,,,volunteer,,,,,M3,,False,processing,306,0
+SIMOVI 1/Sain/CN03/CN03_M4.csv,CN03_M4.csv,,,,volunteer,,,,,M4,,False,processing,295,0
+SIMOVI 1/Sain/CN03/CN03_M5.csv,CN03_M5.csv,,,,volunteer,,,,,M5,,False,processing,234,0
+SIMOVI 1/Sain/CR01/CR01_M1.csv,CR01_M1.csv,,,,volunteer,,,,,M1,,False,processing,293,0
+SIMOVI 1/Sain/CR01/CR01_M2.csv,CR01_M2.csv,,,,volunteer,,,,,M2,,False,processing,560,0
+SIMOVI 1/Sain/CR01/CR01_M3.csv,CR01_M3.csv,,,,volunteer,,,,,M3,,False,processing,404,0
+SIMOVI 1/Sain/CR01/CR01_M4.csv,CR01_M4.csv,,,,volunteer,,,,,M4,,False,processing,454,0
+SIMOVI 1/Sain/CR01/CR01_M5.csv,CR01_M5.csv,,,,volunteer,,,,,M5,,False,processing,399,0
+SIMOVI 1/Sain/FRS/FRS_M2.csv,FRS_M2.csv,,,,volunteer,,,,,M2,,False,processing,332,0
+SIMOVI 1/Sain/FRS/FRS_M3.csv,FRS_M3.csv,,,,volunteer,,,,,M3,,False,processing,403,0
+SIMOVI 1/Sain/FRS/FRS_M4.csv,FRS_M4.csv,,,,volunteer,,,,,M4,,False,processing,420,0
+SIMOVI 1/Sain/FRS/FRS_M5.csv,FRS_M5.csv,,,,volunteer,,,,,M5,,False,processing,611,0
+SIMOVI 1/Sain/FRS02/FRS02_M1.csv,FRS02_M1.csv,,,,volunteer,,,,,M1,,False,processing,208,0
+SIMOVI 1/Sain/FRS02/FRS02_M2.csv,FRS02_M2.csv,,,,volunteer,,,,,M2,,False,processing,279,0
+SIMOVI 1/Sain/FRS02/FRS02_M3.csv,FRS02_M3.csv,,,,volunteer,,,,,M3,,False,processing,254,0
+SIMOVI 1/Sain/FRS02/FRS02_M4.csv,FRS02_M4.csv,,,,volunteer,,,,,M4,,False,processing,436,0
+SIMOVI 1/Sain/FRS02/FRS02_M5.csv,FRS02_M5.csv,,,,volunteer,,,,,M5,,False,processing,341,0
+SIMOVI 1/Sain/GG01/GG01_M1.csv,GG01_M1.csv,,,,volunteer,,,,,M1,,False,processing,247,0
+SIMOVI 1/Sain/GG01/GG01_M2.csv,GG01_M2.csv,,,,volunteer,,,,,M2,,False,processing,313,0
+SIMOVI 1/Sain/GG01/GG01_M3.csv,GG01_M3.csv,,,,volunteer,,,,,M3,,False,processing,186,0
+SIMOVI 1/Sain/GG01/GG01_M4.csv,GG01_M4.csv,,,,volunteer,,,,,M4,,False,processing,149,0
+SIMOVI 1/Sain/GG01/GG01_M5.csv,GG01_M5.csv,,,,volunteer,,,,,M5,,False,processing,294,0
+SIMOVI 1/Sain/JB01/JB01_M2.csv,JB01_M2.csv,,,,volunteer,,,,,M2,,False,processing,261,0
+SIMOVI 1/Sain/JB01/JB01_M3.csv,JB01_M3.csv,,,,volunteer,,,,,M3,,False,processing,415,276
+SIMOVI 1/Sain/JB01/JB01_M4.csv,JB01_M4.csv,,,,volunteer,,,,,M4,,False,processing,228,215
+SIMOVI 1/Sain/JB01/JB01_M5.csv,JB01_M5.csv,,,,volunteer,,,,,M5,,False,processing,379,379
+SIMOVI 1/Sain/JS/20230412_JS_M1.csv,20230412_JS_M1.csv,,,,volunteer,,,,,M1,,False,processing,121,0
+SIMOVI 1/Sain/JS/20230412_JS_M2.csv,20230412_JS_M2.csv,,,,volunteer,,,,,M2,,False,processing,91,0
+SIMOVI 1/Sain/JS/20230412_JS_M3.csv,20230412_JS_M3.csv,,,,volunteer,,,,,M3,,False,processing,165,0
+SIMOVI 1/Sain/JS/20230412_JS_M4.csv,20230412_JS_M4.csv,,,,volunteer,,,,,M4,,False,processing,131,0
+SIMOVI 1/Sain/JS/20230412_JS_M5.csv,20230412_JS_M5.csv,,,,volunteer,,,,,M5,,False,processing,186,0
+SIMOVI 1/Sain/JS/20230412_JS_M6.csv,20230412_JS_M6.csv,,,,volunteer,,,,,M6,,False,processing,141,0
+SIMOVI 1/Sain/JS/20230412_JS_M7.csv,20230412_JS_M7.csv,,,,volunteer,,,,,M7,,False,processing,152,0
+SIMOVI 1/Sain/JS/20230412_JS_M8.csv,20230412_JS_M8.csv,,,,volunteer,,,,,M8,,False,processing,101,0
+SIMOVI 1/Sain/JS/20230412_JS_M9.csv,20230412_JS_M9.csv,,,,volunteer,,,,,M9,,False,processing,131,0
+SIMOVI 1/Sain/LN01/LN01_M1.csv,LN01_M1.csv,,,,volunteer,,,,,M1,,False,processing,654,0
+SIMOVI 1/Sain/LN01/LN01_M2.csv,LN01_M2.csv,,,,volunteer,,,,,M2,,False,processing,596,0
+SIMOVI 1/Sain/LN01/LN01_M3.csv,LN01_M3.csv,,,,volunteer,,,,,M3,,False,processing,286,0
+SIMOVI 1/Sain/LN01/LN01_M4.csv,LN01_M4.csv,,,,volunteer,,,,,M4,,False,processing,326,0
+SIMOVI 1/Sain/LN01/LN01_M5.csv,LN01_M5.csv,,,,volunteer,,,,,M5,,False,processing,652,0
+SIMOVI 1/Sain/MM01/MM01_M1.csv,MM01_M1.csv,,,,volunteer,,,,,M1,,False,processing,618,0
+SIMOVI 1/Sain/MM01/MM01_M2.csv,MM01_M2.csv,,,,volunteer,,,,,M2,,False,processing,485,0
+SIMOVI 1/Sain/MM01/MM01_M3.csv,MM01_M3.csv,,,,volunteer,,,,,M3,,False,processing,372,0
+SIMOVI 1/Sain/MM01/MM01_M4.csv,MM01_M4.csv,,,,volunteer,,,,,M4,,False,processing,268,0
+SIMOVI 1/Sain/MM01/MM01_M5.csv,MM01_M5.csv,,,,volunteer,,,,,M5,,False,processing,370,370
+SIMOVI 1/Sain/MP01/MP01_M1.csv,MP01_M1.csv,,,,volunteer,,,,,M1,,False,processing,599,0
+SIMOVI 1/Sain/MP01/MP01_M2.csv,MP01_M2.csv,,,,volunteer,,,,,M2,,False,processing,570,0
+SIMOVI 1/Sain/MP01/MP01_M3.csv,MP01_M3.csv,,,,volunteer,,,,,M3,,False,processing,626,0
+SIMOVI 1/Sain/MP01/MP01_M4.csv,MP01_M4.csv,,,,volunteer,,,,,M4,,False,processing,498,0
+SIMOVI 1/Sain/MP01/MP01_M5.csv,MP01_M5.csv,,,,volunteer,,,,,M5,,False,processing,354,0
+SIMOVI 1/Sain/NL01/NL01_M1.csv,NL01_M1.csv,,,,volunteer,,,,,M1,,False,processing,210,210
+SIMOVI 1/Sain/NL01/NL01_M2.csv,NL01_M2.csv,,,,volunteer,,,,,M2,,False,processing,228,228
+SIMOVI 1/Sain/NL01/NL01_M3.csv,NL01_M3.csv,,,,volunteer,,,,,M3,,False,processing,269,269
+SIMOVI 1/Sain/NL01/NL01_M4.csv,NL01_M4.csv,,,,volunteer,,,,,M4,,False,processing,246,246
+SIMOVI 1/Sain/NL01/NL01_M5.csv,NL01_M5.csv,,,,volunteer,,,,,M5,,False,processing,260,260
+SIMOVI 1/Sain/PS01/PS01_M1.csv,PS01_M1.csv,,,,volunteer,,,,,M1,,False,processing,274,0
+SIMOVI 1/Sain/PS01/PS01_M2.csv,PS01_M2.csv,,,,volunteer,,,,,M2,,False,processing,393,0
+SIMOVI 1/Sain/PS01/PS01_M3.csv,PS01_M3.csv,,,,volunteer,,,,,M3,,False,processing,274,0
+SIMOVI 1/Sain/PS01/PS01_M4.csv,PS01_M4.csv,,,,volunteer,,,,,M4,,False,processing,249,0
+SIMOVI 1/Sain/PS01/PS01_M5.csv,PS01_M5.csv,,,,volunteer,,,,,M5,,False,processing,312,0
+SIMOVI 1/Sain/QS/QS_M1.csv,QS_M1.csv,,,,volunteer,,,,,M1,,False,processing,356,0
+SIMOVI 1/Sain/QS/QS_M2.csv,QS_M2.csv,,,,volunteer,,,,,M2,,False,processing,410,0
+SIMOVI 1/Sain/QS/QS_M3.csv,QS_M3.csv,,,,volunteer,,,,,M3,,False,processing,291,0
+SIMOVI 1/Sain/QS/QS_M4.csv,QS_M4.csv,,,,volunteer,,,,,M4,,False,processing,100,0
+SIMOVI 1/Sain/QS/QS_M5.csv,QS_M5.csv,,,,volunteer,,,,,M5,,False,processing,452,0
+SIMOVI 1/Sain/RL01/RL01_M1.csv,RL01_M1.csv,,,,volunteer,,,,,M1,,False,processing,444,444
+SIMOVI 1/Sain/RL01/RL01_M2.csv,RL01_M2.csv,,,,volunteer,,,,,M2,,False,processing,464,464
+SIMOVI 1/Sain/RL01/RL01_M3.csv,RL01_M3.csv,,,,volunteer,,,,,M3,,False,processing,317,317
+SIMOVI 1/Sain/RL01/RL01_M4.csv,RL01_M4.csv,,,,volunteer,,,,,M4,,False,processing,401,401
+SIMOVI 1/Sain/RL01/RL01_M5.csv,RL01_M5.csv,,,,volunteer,,,,,M5,,False,processing,465,465
+SIMOVI 1/Sain/RS01/RS01_M1.csv,RS01_M1.csv,,,,volunteer,,,,,M1,,False,processing,301,0
+SIMOVI 1/Sain/RS01/RS01_M2.csv,RS01_M2.csv,,,,volunteer,,,,,M2,,False,processing,596,0
+SIMOVI 1/Sain/RS01/RS01_M3.csv,RS01_M3.csv,,,,volunteer,,,,,M3,,False,processing,148,0
+SIMOVI 1/Sain/RS01/RS01_M4.csv,RS01_M4.csv,,,,volunteer,,,,,M4,,False,processing,136,0
+SIMOVI 1/Sain/RS01/RS01_M5.csv,RS01_M5.csv,,,,volunteer,,,,,M5,,False,processing,259,0
+SIMOVI 1/Sain/SB01/SB01_M1.csv,SB01_M1.csv,,,,volunteer,,,,,M1,,False,processing,498,0
+SIMOVI 1/Sain/SB01/SB01_M2.csv,SB01_M2.csv,,,,volunteer,,,,,M2,,False,processing,394,0
+SIMOVI 1/Sain/SB01/SB01_M3.csv,SB01_M3.csv,,,,volunteer,,,,,M3,,False,processing,386,0
+SIMOVI 1/Sain/SB01/SB01_M4.csv,SB01_M4.csv,,,,volunteer,,,,,M4,,False,processing,153,0
+SIMOVI 1/Sain/SB01/SB01_M5.csv,SB01_M5.csv,,,,volunteer,,,,,M5,,False,processing,561,0
+SIMOVI 1/Sain/SD01/SD01_M1.csv,SD01_M1.csv,,,,volunteer,,,,,M1,,False,processing,634,634
+SIMOVI 1/Sain/SD01/SD01_M2.csv,SD01_M2.csv,,,,volunteer,,,,,M2,,False,processing,399,353
+SIMOVI 1/Sain/SD01/SD01_M3.csv,SD01_M3.csv,,,,volunteer,,,,,M3,,False,processing,440,440
+SIMOVI 1/Sain/SD01/SD01_M4.csv,SD01_M4.csv,,,,volunteer,,,,,M4,,False,processing,381,381
+SIMOVI 1/Sain/TP01/TP01_M1.csv,TP01_M1.csv,,,,volunteer,,,,,M1,,False,processing,478,476
+SIMOVI 1/Sain/TP01/TP01_M2.csv,TP01_M2.csv,,,,volunteer,,,,,M2,,False,processing,618,391
+SIMOVI 1/Sain/TP01/TP01_M4.csv,TP01_M4.csv,,,,volunteer,,,,,M4,,False,processing,334,334
+SIMOVI 1/Sain/TP01/TP01_M5.csv,TP01_M5.csv,,,,volunteer,,,,,M5,,False,processing,385,385
